@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musics>
+	<music name="上海滩" id="1">
+		<singer id="1" sex="男">
+			<name>张三</name>
+			<city>台湾</city>
+		</singer>
+		<zuoqu>李四</zuoqu>
+		<geci>王五</geci>
+	</music>
+	<music name="夜上海"  id="2">
+		<singer id="1" sex="男">
+			<name>张三2</name>
+			<city>大陆2</city>
+		</singer>
+		<zuoqu>李四2</zuoqu>
+		<geci>王五2</geci>
+	</music>
+	<music name="情深深雨蒙蒙" id="3">
+		<singer id="1" sex="男">
+			<name>张三3</name>
+			<city>大陆3</city>
+		</singer>
+		<zuoqu>李四3</zuoqu>
+		<geci>王五3</geci>
+	</music>
+</musics>
